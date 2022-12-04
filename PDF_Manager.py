@@ -5,14 +5,7 @@ from PyPDF2 import PdfFileMerger
 # Start the program
 def start():
     print("Welcome to pdf manager")
-    print('''
-    by 
-    Yousef Abdalla
-    20210475
-    Mohand Magdy
-    20210412
-    Mohamed Kamal
-    20210350 ''')
+    
 
     # choose what do you want
     print("choose 1, 2, 3 or 4:")
